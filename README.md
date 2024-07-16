@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Prince Bhardwaj</h1>
 <h3 align="center">Angular Developer | Building the Web of Tomorrow</h3>
