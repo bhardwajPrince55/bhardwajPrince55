@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prince Bhardwaj</h1>
 <h3 align="center">Angular Developer | Building the Web of Tomorrow</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhardwajprince55" alt="bhardwajprince55" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhardwajprince55&theme=onedark" alt="bhardwajprince55" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/bhardwaj_prince" target="blank"><img src="https://img.shields.io/twitter/follow/bhardwaj_prince?logo=twitter&style=for-the-badge" alt="bhardwaj_prince" /></a> </p>
 
